@@ -1,0 +1,95 @@
+{
+    "projects": [{
+        "end_date": "06-30-2019",
+        "is_strict": "no",
+        "role": "Employee",
+        "bug_count": {
+            "closed": 10,
+            "open": 1
+        },
+        "IS_BUG_ENABLED": true,
+        "owner_id": "475003055",
+        "taskbug_prefix": "SW",
+        "link": {
+            "activity": {
+                "url": "https://projectsapi.zoho.com/restapi/portal/475030530/projects/923846000003727415/activities/"
+            },
+            "document": {
+                "url": "https://projectsapi.zoho.com/restapi/portal/475030530/projects/923846000003727415/documents/"
+            },
+            "forum": {
+                "url": "https://projectsapi.zoho.com/restapi/portal/475030530/projects/923846000003727415/forums/"
+            },
+            "timesheet": {
+                "url": "https://projectsapi.zoho.com/restapi/portal/475030530/projects/923846000003727415/logs/"
+            },
+            "task": {
+                "url": "https://projectsapi.zoho.com/restapi/portal/475030530/projects/923846000003727415/tasks/"
+            },
+            "folder": {
+                "url": "https://projectsapi.zoho.com/restapi/portal/475030530/projects/923846000003727415/folders/"
+            },
+            "milestone": {
+                "url": "https://projectsapi.zoho.com/restapi/portal/475030530/projects/923846000003727415/milestones/"
+            },
+            "bug": {
+                "url": "https://projectsapi.zoho.com/restapi/portal/475030530/projects/923846000003727415/bugs/"
+            },
+            "self": {
+                "url": "https://projectsapi.zoho.com/restapi/portal/475030530/projects/923846000003727415/"
+            },
+            "tasklist": {
+                "url": "https://projectsapi.zoho.com/restapi/portal/475030530/projects/923846000003727415/tasklists/"
+            },
+            "event": {
+                "url": "https://projectsapi.zoho.com/restapi/portal/475030530/projects/923846000003727415/events/"
+            },
+            "user": {
+                "url": "https://projectsapi.zoho.com/restapi/portal/475030530/projects/923846000003727415/users/"
+            },
+            "status": {
+                "url": "https://projectsapi.zoho.com/restapi/portal/475030530/projects/923846000003727415/statuses/"
+            }
+        },
+        "description": "<br>",
+        "milestone_count": {
+            "closed": 0,
+            "open": 1
+        },
+        "start_date_long": 1527791400000,
+        "updated_date_long": 1530248885821,
+        "end_date_long": 1561919399000,
+        "task_count": {
+            "closed": 729,
+            "open": 124
+        },
+        "updated_date_format": "06-29-2018 10:38:05 AM",
+        "workspace_id": "3wwya4b2ea6ccd4fd45eb9581c4c9ab2ef3e3",
+        "user_disabled_tab": [],
+        "billing_status": "Billable",
+        "id": 923846000003727415,
+        "key": "PR-74",
+        "is_chat_enabled": true,
+        "start_date": "06-01-2018",
+        "owner_name": "S KAARTHI",
+        "created_date_long": 1527776289688,
+        "group_name": "ADMINISTRATION TEAM",
+        "created_date_format": "05-31-2018 07:48:09 PM",
+        "group_id": 923846000000897277,
+        "profile_id": 923846000001928143,
+        "enabled_tabs": ["dashboard", "dashboard", "tasks", "bugs", "milestones", "calendar", "documents", "timesheet", "invoices", "forums", "pages", "chat", "users", "reports"],
+        "name": "INFOTECH TEAM ",
+        "is_public": "no",
+        "id_string": "923846000003727415",
+        "created_date": "05-31-2018",
+        "updated_date": "06-29-2018",
+        "bug_prefix": "SW-I",
+        "layout_details": {
+            "task": {
+                "name": "Standard Layout",
+                "id": "923846000002186011"
+            }
+        },
+        "status": "active"
+    }]
+}

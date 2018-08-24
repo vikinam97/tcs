@@ -1,0 +1,2 @@
+select srr.reqnumb,srr.reqsrno,ser.resfusr,ser.resmsg from trandata.service_request@tcscentr srr,trandata.service_response@tcscentr ser 
+where ser.reqnumb=srr.reqnumb and srr.reqnumb='2018081300072'
