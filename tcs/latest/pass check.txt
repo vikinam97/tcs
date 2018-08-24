@@ -1,0 +1,25 @@
+Public Shared Function PASSCHK(ByVal PASSTXT As String) As String
+        Dim lenpass As Integer = Len(PASSTXT)
+        Dim i As Integer
+        Dim txt1 As String = 0
+        Dim txt As String = ""
+        Dim txt2 As String
+        Dim ks As Integer = 50
+        For i = 1 To lenpass
+            txt1 = Asc(Mid(PASSTXT, i, 1))
+            txt1 = txt1 + ks
+            If txt1 >= 255 Then
+                txt1 = txt1 - 200
+            End If
+            txt2 = Chr(txt1)
+            txt = txt + txt2
+            ks = ks + 15
+        Next
+        PASSTXT = txt
+        Return (PASSTXT)
+    End Function
+
+inthiya
+
+Verify
+(dsUser.USERID.Rows(0).Item("usrpass") = PASSCHK(UsrPassTextBox.Text) 

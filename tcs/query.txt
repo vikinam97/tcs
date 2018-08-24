@@ -1,0 +1,18 @@
+insert into PROCESS_REQUIREMENT_RATING (ENTRYYR, ENTRYNO, ENTSRNO, REQDSLK, REQLIKE, ADDUSER, ADDDATE) values ('2018-19', '2', '1', '', '1', '2280588', to_date('14-AUG-2018 11:40:01 AM', 'dd-Mon-yyyy HH:MI:SS AM'))
+
+
+
+EmmssE&@%567
+
+
+select * from trandata.employee_thump_register@tcscentr where empsrno='94095';
+
+
+<script src="https://unpkg.com/vue@2.1.10/dist/vue.js"></script>
+
+Select * from Trandata.Attn_Register@Tcscentr where EMPCODE=15886 and payyear = 2018 and paymont = 8 order by PAYYEAR, PAYMONT;
+
+Select User_Access('22805','M') lock_ From dual
+
+
+insert into employee_notice_detail (BRNCODE, NOTYEAR, NOTNUMB, EMPSRNO, EMPCODE, EMPNAME, ESECODE, DESCODE, NOTCODE, NOTNAME, REMARKS, AUTSRNO, STATUS, NOTMODE, EMP_STATUS, EMP_REMARKS, ADDUSER, ADDDATE, EDTUSER, EDTDATE, DELETED, DELUSER, DELDATE) values ('888', '2018-19', '6', '94095', '22805', 'VIGNESH', '20', '150', '1', 'ALERT NOTICE-3', 'SDFSDF', 'choose tbranch', 'N', 'N', '', '', '2280588', to_date('16-AUG-2018 01:01:15 PM', 'dd-Mon-yyyy HH:MI:SS AM'), '', '', 'N', '', '')

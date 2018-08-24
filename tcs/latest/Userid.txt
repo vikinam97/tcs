@@ -1,0 +1,22 @@
+
+   USRCODE USRNAME                                            USRPASS       USRUSES U D C    SECCODE ADDDATE      EMPSRNO    BRNCODE    GODCODE
+---------- -------------------------------------------------- ---------- ---------- - - - ---------- --------- ---------- ---------- ----------
+   1426001 SARAVANAKUMAR.P                                    ›¯ÄÇ×öí               Y N N          0 04-OCT-06       1801        888         20
+
+1 row selected.
+
+ Name                    Null?    Type
+ ----------------------- -------- ----------------
+ USRCODE                 NOT NULL NUMBER(7)
+ USRNAME                 NOT NULL VARCHAR2(50)
+ USRPASS                 NOT NULL VARCHAR2(10)
+ USRUSES                          NUMBER(7)
+ USRACES                          CHAR(1)
+ DELETED                 NOT NULL CHAR(1)
+ COPYBIL                 NOT NULL CHAR(1)
+ SECCODE                          NUMBER(5)
+ ADDDATE                 NOT NULL DATE
+ EMPSRNO                          NUMBER(7)
+ BRNCODE                          NUMBER(3)
+ GODCODE                          NUMBER(5)
+
