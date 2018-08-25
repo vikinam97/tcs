@@ -5,8 +5,8 @@ var options = {
   url: 'http://renovate.thechennaisilks.com/rest/V1/guest-carts/giftcard',
   headers:
    { 'content-type': 'application/json' },
-      body: { code: 'VQQA-TFYL-7116',
-          price: '450'
+      body: { code: 'VIKI-NAME-1997',
+          price: '500'
         },
       json: true
   };

@@ -7,15 +7,15 @@ var options = { method: 'PUT',
    { 'content-type': 'application/json' },
   body:
    { cardInfo:
-      { code: 'BTZS-OUVN-TEST',
-        amount: '100.00',
+      { code: 'VIKI-NAME-1997',
+        amount: '1000.00',
         template: '',
         image: '',
         sender: '',
         recipient: '',
         message: '',
-        name: 'Murali Manohar',
-        delivery_address: 'murali.m@gmail.com' } },
+        name: 'Viki Raj',
+        delivery_address: 'vikiraj@gmail.com' } },
   json: true };
 
 request(options, function (error, response, body) {
